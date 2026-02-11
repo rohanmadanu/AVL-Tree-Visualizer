@@ -13,3 +13,5 @@ A desktop application built in Java that visualizes the self-balancing nature of
 2. Clone the repository:
    ```bash
    git clone [https://github.com/rohanmadanu/AVL-Tree-Visualizer.git](https://github.com/rohanmadanu/AVL-Tree-Visualizer.git)
+
+<img width="993" height="496" alt="screenshot" src="https://github.com/user-attachments/assets/9c0e2830-ba9e-4044-8987-532816552df5" />
