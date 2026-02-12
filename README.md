@@ -1,5 +1,6 @@
 # AVL-Tree-Visualizer
 
+[![Download JAR](https://img.shields.io/badge/Download-Executable_.jar-blue?style=for-the-badge&logo=java)](https://github.com/rohanmadanu/AVL-Tree-Visualizer/releases/latest)
 A desktop application built in Java that visualizes the self-balancing nature of AVL Trees. This tool helps students and developers understand how **rotations** (LL, RR, LR, RL) maintain tree balance in real-time.
 
 ## ✨ Features
